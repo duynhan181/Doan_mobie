@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547333957337",
+    "project_id": "doan-mobie",
+    "storage_bucket": "doan-mobie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547333957337:android:3e14504182d81e4ca8c0c8",
+        "android_client_info": {
+          "package_name": "com.example.doan_mobie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547333957337-rabn4m0m7pf78er93lr69dnsc1e897sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa8lPqNV3ngLNWcECR66Sw1tsUx1HP69o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547333957337-rabn4m0m7pf78er93lr69dnsc1e897sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
